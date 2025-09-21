@@ -19,7 +19,7 @@ This chart shows that since the launch of the service, the number of users perfo
 
 ### 2. Average User Activity
 ![Average User Activity](Activity_average_per_user.png)  
-This chart demonstrates a stable trend in the average number of song plays and other active events per user. On weekends, the number of users decreases less compared to the number of active actions. In other words, users still visit the platform but show less interest in it on weekends. However, the stable trend in the number of song plays throughout the month indicates that on weekends people may not have the time or desire to search for something new, instead listening to either what the platform recommends or what they had previously selected.
+This chart demonstrates a stable trend in the average number of song plays and other active events per user. On weekends, the number of users decreases less compared to the number of active actions. In other words, users still visit the platform but are less active on weekends. However, the stable trend in the number of song plays throughout the month indicates that on weekends people may not have the time or desire to search for something new, instead listening to either what the platform recommends or what they had previously selected.
 
 ### 3. Daily Retention Rate
 ![Daily Retention Rate](Daily_retention_rate.png)  
