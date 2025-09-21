@@ -30,7 +30,7 @@ For this chart, “Return on or after” was chosen instead of “Return on”. 
 This chart shows that although the difference between the number of Android and iOS users is small, it is noticeable—there are more users on the iOS platform. However, in percentage terms, the conversion rates between the two platforms are almost the same. Therefore, there is no need to make changes to the service versions on either of the two platforms.
 
 ### 5. Daily Funnel
-![Daily Funnel](Daily_funnel welcome_to_play_song.png)  
+![Daily Funnel](Daily_funnel_welcome_to_play_song.png)  
 This chart shows that there is no significant difference in user conversion from the beginning of the funnel to playing a song between platforms. It is also noticeable that on Saturdays, users do not complete the onboarding funnel fully, resulting in lower conversion. This also serves as an incentive for the team to add attractive offers or reminders to open the app in order to increase user activity.
 
 ### 6. Daily Time To Convert Funnel
