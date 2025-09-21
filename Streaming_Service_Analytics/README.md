@@ -15,10 +15,10 @@ This repository presents a **cohort analysis** of users on a music streaming pla
 
 ### 1. User Activity Over Time (Play song vs. Any active event daily)
 ![User Activity Over Time](Daily_activity.png) 
-*Explanation:* This chart shows that since the launch of the service, the number of users performing an active action or listening to a song increased throughout June 2023, as interest in the new app grew. On Saturdays and Sundays, the number of active events and song plays generally decreases noticeably. Therefore, it makes sense to take actions to increase user activity on weekends. We also understand that most users who visited the platform were listening to songs.
+This chart shows that since the launch of the service, the number of users performing an active action or listening to a song increased throughout June 2023, as interest in the new app grew. On Saturdays and Sundays, the number of active events and song plays generally decreases noticeably. Therefore, it makes sense to take actions to increase user activity on weekends. We also understand that most users who visited the platform were listening to songs.
 
 ### 2. Average User Activity
-![Activity Chart](images/activity_chart.png)  
+![Average User Activity](Activity_average_per_user.png)  
 *Explanation:* Insert your commentary here – e.g., “Average number of song plays and other active events per user remains stable during weekdays but drops slightly on weekends.”
 
 ### 3. Platform Comparison (iOS vs Android)
